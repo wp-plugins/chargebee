@@ -74,7 +74,7 @@ Now you are ready to start using ChargeBee plugin.
 
 == Changelog ==
 
-= 1.1 == 
+= 1.1 = 
 Webhook calls are checked with the existing customer subscription information and if any change found they are fetched from the ChargeBee.
 
 = 1.0 =
