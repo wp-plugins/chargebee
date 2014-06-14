@@ -2,7 +2,7 @@
 Contributors: ChargeBee
 Tags: memberships, membership,subscription,recurring billing, ecommerce, paywall, restrict access, restrict content, authorize.net, paypal, stripe, braintree
 Tested up to: 3.8.2 
-Stable tag: 1.0.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,7 +56,7 @@ If you need additional functionality, you could build it easily on top of this p
 
 == Installation ==
 
-= Plugin Installation 
+= Plugin Installation = 
 
 1. Download the latest version of the plugin, unzip the file on your computer and then upload it to your WordPress Plugin directory(/wp-content/plugins directory).
 2. In your WordPress admin console, activate ChargeBee in the "Plugins" section.
