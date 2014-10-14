@@ -150,6 +150,8 @@ In order to invoke other APIs, just call the required API code from within WordP
 
 
 == Changelog ==
+= 2.2 =
+Added support for integrating with other user registration WordPress plugin.
 
 = 2.2 =
 Updating ChargeBee user meta in WordPress after redirecting from customer portal, removed "chargebee plan" property, if invoice name is null then replace it will plan name and also added filters for developers to access the ChargeBee user meta information.
